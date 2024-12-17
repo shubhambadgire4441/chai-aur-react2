@@ -1,0 +1,1 @@
+const mainContainer = doucment.querySelector('#root')
